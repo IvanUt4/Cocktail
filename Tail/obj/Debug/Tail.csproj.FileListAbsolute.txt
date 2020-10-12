@@ -1,0 +1,7 @@
+C:\Users\IVAN\source\repos\Tail\Tail\obj\Debug\Tail.csprojAssemblyReference.cache
+C:\Users\IVAN\source\repos\Tail\Tail\obj\Debug\Tail.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\source\repos\Tail\Tail\bin\Debug\Tail.exe.config
+C:\Users\IVAN\source\repos\Tail\Tail\bin\Debug\Tail.exe
+C:\Users\IVAN\source\repos\Tail\Tail\bin\Debug\Tail.pdb
+C:\Users\IVAN\source\repos\Tail\Tail\obj\Debug\Tail.exe
+C:\Users\IVAN\source\repos\Tail\Tail\obj\Debug\Tail.pdb
